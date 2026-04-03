@@ -1,2 +1,2 @@
-# Statistics
-Statistics Projects
+# Statistics Projects Library
+- **1.** MCS-
